@@ -1,0 +1,10 @@
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\bin\Debug\OpenCTe.exe.config
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\bin\Debug\OpenCTe.exe
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\bin\Debug\OpenCTe.pdb
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\obj\Debug\OpenCTe.Form1.resources
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\obj\Debug\OpenCTe.Properties.Resources.resources
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\obj\Debug\OpenCTe.csproj.GenerateResource.Cache
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\obj\Debug\OpenCTe.exe
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\obj\Debug\OpenCTe.pdb
+C:\Users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\obj\Debug\OpenCTe.View.Error.resources
+C:\Users\gabriel.silva\documents\visual studio 2012\Projects\OpenCTe\OpenCTe\obj\Debug\OpenCTe.csprojResolveAssemblyReference.cache
